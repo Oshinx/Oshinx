@@ -5,9 +5,9 @@ I'm a senior software engineer with over 3 years of experience building robust b
 
 ## Tech Stack Highlights
 
-- **Languages**: Java 8, JavaScript (ES6+) Typescript
+- **Languages**: Java 8, JavaScript (ES6+), Typescript, Go
 - **Frontend**: Angular, React, Ionic, HTML5, CSS3, Sass
-- **Backend**: Node.js, Express, Spring Boot  
+- **Backend**: Node.js, Express, Spring Boot, Gin  
 - **Testing**: Jest, JUnit, Mockito, Supertest, React Testing Library
 - **State Management**: Redux, @reduxjs/toolkit, Redux Thunk NGRX
 - **UI**: TailwindCSS, Bootstrap, DaisyUi
