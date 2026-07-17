@@ -1,7 +1,7 @@
 
 # Hello there! I'm Michael Oshinaike 👋
 
-I'm a senior software engineer with over 3 years of experience building robust backends, intuitive user interfaces, and everything in between.
+I'm a senior software engineer with over 5 years of experience building robust backends, intuitive user interfaces, and everything in between.
 
 ## Tech Stack Highlights
 
